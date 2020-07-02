@@ -157,3 +157,4 @@ console.log(types);
 ## Next
 
 - [ ] Struct generated files by tags
+- [ ] Property 'nullable' for data type
